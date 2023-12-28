@@ -32,10 +32,10 @@ Compared to traditional methods like consuming caffeine or loud music, Anti-Snoo
 <img width="233" alt="image" src="https://github.com/arunnats/Anti-Snooze/assets/118368673/b9426b20-cb5e-451e-9ef7-9a58d18059be">
 
 Parts Involved
-Mini Pulse Sensor
-Buzzer
-Vibrator
-Elastic Band for finger adjustment
-Conductive Leather
-Strap-on Band
-Battery
+Mini Pulse Sensor, 
+Buzzer, 
+Vibrator, 
+Elastic Band for finger adjustment, 
+Conductive Leather, 
+Strap-on Band, 
+Battery, 
